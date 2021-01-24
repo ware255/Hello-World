@@ -1,8 +1,20 @@
 #include <stdio.h>
+#include <stdlib.h>
+
+int i = 0;
+int a = 1;
+
+void test(){
+    i ^ = a;
+    a ^ = i;
+    i ^ = a;
+    
+    return;
+}
 
 int main(){
-    int i;
-    for (i = 0,i <= 0,i++){
+    test();
+    for (i;i <= 0;i++){
       if (i == 0) {
         printf("Hello, World!");
       }
