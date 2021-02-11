@@ -6,7 +6,6 @@ int a = 1;
 
 void test(){
     i ^ = a;
-    a ^ = i;
     i ^ = a;
     
     return;
