@@ -15,7 +15,7 @@ int main(int argc; char** argv){
     test();
     for (i;i <= 0;i++){
       if (i == 0) {
-        printf("Hello, World!");
+        printf("Hello, World!\n");
       }
     }
     return 0;
