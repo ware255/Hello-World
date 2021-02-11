@@ -11,7 +11,7 @@ void test(){
     return;
 }
 
-int main(){
+int main(int argc; char** argv){
     test();
     for (i;i <= 0;i++){
       if (i == 0) {
