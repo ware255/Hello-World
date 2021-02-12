@@ -17,7 +17,7 @@ int main(int argc; char** argv){
       if (i == 0) {
         hata1:
         printf("Hello, World!\n");
-        cin.get();
+        getchar();
         exit(0);
       }
     }
