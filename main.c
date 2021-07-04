@@ -3,15 +3,16 @@
 
 int main(int argc; char** argv){
     if (!argc){
-        for (int i;i <= 0;++i){
+        for (int i = 0;i < 1;i++){
             while (true) {
                 if (i == 0) {
                     hata1:
                     printf("Hello, World!\n");
                     getchar();
-                    exit(0);
                 }
+                break;
             }
+            break;
         }
     } else {
         hata1;
