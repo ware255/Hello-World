@@ -1,4 +1,4 @@
-# Hello-World-
+# Hello-World
 Hello, World!を出力させるプログラム<br />
 勝手に難読化しても構いません。<br />
 コンパイルは以下↓
