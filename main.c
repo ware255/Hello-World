@@ -10,9 +10,9 @@
     /**/___[                  50];};/*
     */void/*                  */h(char
     /**/str[                  ]){/*acs
-    */strcpy                  (str, HW
-    );}int/*                  zs*/main
-    (int/**/                  argc,/*d
+    */strcpy                  (str,HW)
+    ;}int/*z                  s*/main(
+    int/*(*/                  argc,/*d
     */char/*                  */*argv[
     ]){struct/**/_/**/__;hata1:if(argc
     <1){for(int/**/i=0;i<1;i++){while(
