@@ -1,7 +1,7 @@
 /*
  * このソースコードは難読化目的で作成しました。
  */
-##include<stdio.h>
+#include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
 #define HW "Hello, World!"
