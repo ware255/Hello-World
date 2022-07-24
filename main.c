@@ -7,7 +7,7 @@
           ecl(ldox,f\x20jW\
          owrelfda!ipn1qbgn4\
           *a;";struct/*ad*/
-		    H/*_*/{char(
+            H/*_*/{char(
                 rast
                 
          )[50];/*vkscsna*/};
